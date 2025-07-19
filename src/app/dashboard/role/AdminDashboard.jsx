@@ -4,7 +4,7 @@ import JobPostForm from "../component/JobPostForm";
 const AdminDashboard = ({ user }) => {
   return (
     <section>
-        <h2 className="font-bold text-2xl">Post a Job Designation</h2>
+        <h2 className="font-bold text-2xl">Setup a Quiz</h2>
         <Separator />
 
         <JobPostForm />

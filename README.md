@@ -3,6 +3,9 @@
 
 AUTH_URL="http://localhost:3000"
 NEXT_PUBLIC_APP_URL="http://localhost:3000"
+
+admin email = admin@example.com
+admin password = admin123
 ```
 
 ## 2. Run the development server:
@@ -16,5 +19,3 @@ pnpm dev
 # or
 bun dev
 ```
-
-## 3. Credential Registration: Verification link is available in console.

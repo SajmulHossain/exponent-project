@@ -62,8 +62,8 @@ const data = {
             url: "/dashboard",
           },
           {
-            title: "Starred",
-            url: "#",
+            title: "Create Test",
+            url: "/dashboard/create-test",
           },
           {
             title: "Settings",
